@@ -5,3 +5,6 @@ Mercari is an online marketplace similar to eBay or Amazon. People can list prod
 Mercari would like us to develope an algorithm which automatically suggests a product's price based on the product's description and other information.
 
 A product's description and other information are mostly text data.
+
+Data Source
+https://www.kaggle.com/competitions/mercari-price-suggestion-challenge/data
