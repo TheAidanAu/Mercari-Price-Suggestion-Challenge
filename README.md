@@ -1,4 +1,4 @@
-Mercari Price Suggestion Challenge
+## Mercari Price Suggestion Challenge
 
 Mercari is an online marketplace similar to eBay or Amazon. People can list products to sell.
 
